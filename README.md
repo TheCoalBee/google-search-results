@@ -1,0 +1,1 @@
+This is a completely remade version of the Google search results page. I am practicing the skills I have been learning to recreate it.
