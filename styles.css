@@ -1,0 +1,123 @@
+/* Tags */ /* Tags */ /* Tags */ /* Tags */ /* Tags */ /* Tags */ /* Tags */
+body {
+    background-color:white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin:0;
+}
+
+/* IDs */ /* IDs */ /* IDs */ /* IDs */ /* IDs */ /* IDs *//* IDs */ /* IDs */
+
+#google-logo {
+    float:left;
+    margin-left:20px;
+    margin-top:29px;
+    position:relative;
+    bottom:21px;
+}
+#left-nav-links li {
+    list-style-type:none;
+    display:inline;
+    float:left;
+    padding:16px 12px 12px 10px;
+}
+/* Sizes Google logo correctly. */
+#logo {
+    height:30px;
+    width:92px;
+}
+/* Forces content to certain size and pushes it to right with margin property. */
+#main-content {
+    width:672px;
+    height:850px;
+    margin-left:150px;
+    margin-right:264px;
+}
+#main-pages {
+    width:600px;
+    height:100%;
+    margin-left:16px;
+}
+#nav-bar {
+    height:58px;
+    width:100%;
+}
+#nav-links {
+    margin:0;
+    padding:0;
+    padding-top:11px;
+    height:16px;
+}
+#nav-links a {
+    font-family:Roboto,Arial, Helvetica, sans-serif;
+    font-size:13px;
+    margin:11px 1px 0 1px;
+    text-decoration: none;
+    color:black;
+    opacity:75%;
+}
+#nav-links a:hover {
+    color:#1A73E8;
+    opacity:1;
+}
+#results {
+    color:#70757a;
+    font-size:14px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+#right-nav-links li {
+    list-style-type: none;
+    display: inline;
+    float:right;
+    padding:16px 12px 12px 10px;
+
+}
+#search {
+    display:inline-block;
+}
+#search-bar {
+    margin-top:20px;
+    padding-left:15px;
+    width:667px;
+}
+#search-form {
+    display:inline;
+}
+#search-query {
+    border:0;
+    display:inline;
+    padding:5px;
+    padding-left:2px;
+    padding-top:6px;
+    width:530px;
+    height:34px;
+    font-size:16px;
+}
+
+/* Classes */ /* Classes */ /* Classes */ /* Classes */ /* Classes */ /* Classes */
+.site-style {
+    margin-top:19px;
+}
+.site-style a {
+    color:#1a0dab;
+    text-decoration: none;
+    font-weight:normal;
+    font-size:20px;
+    line-height:26px;
+}
+.site-style a:hover {
+    text-decoration: underline;
+}
+.site-style h2 {
+    color:#006621;
+    font-weight:normal;
+    font-size:16px;
+    line-height:24px;
+    margin:0;
+}
+.site-style p {
+    margin:0;
+    font-size:14px;
+    color:#545454;
+    overflow-wrap:break-word;
+    line-height:21.98px;
+}
